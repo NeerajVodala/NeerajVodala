@@ -1,6 +1,5 @@
 # Portfolio
+## Place where I showcase my projects and blogs
 
-Let's get this done. 
-
-Building first website
+Hoping to have fun doing them!
 
