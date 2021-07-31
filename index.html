@@ -25,10 +25,12 @@
     <hr>
 
     <h2>#containers</h2>
-    <h3>centre containers</h3>
-    <div class="container container--centre">Takes specified width. writing random stuff to increase the line size to see the difference.</div>
+    <h3 class="container--centre">centre containers</h3>
+    <div class="container container--centre">Takes specified width. writing random stuff to increase the line size to
+        see the difference.</div>
     <h3>fluid containers</h3>
-    <div class="container ">end to end lines. writing random stuff to increase the line size to see the difference.</div>
+    <div class="container ">end to end lines. writing random stuff to increase the line size to see the difference.
+    </div>
 
     <hr>
 
@@ -41,18 +43,18 @@
     <h2>#lists</h2>
     <p>list without bullets</p>
     <ol>
-        <li>one</li>
-        <li>two</li>
-        <li>three</li>
+        <li class="list list--non-bullet">one</li>
+        <li class="list list--non-bullet">two</li>
+        <li class="list list--non-bullet">three</li>
     </ol>
-    <p>list with bullet</p>
+    <p>unordered inline list</p>
     <ul>
-        <li>one</li>
-        <li>two</li>
-        <li>three</li>
+        <li class="list list--inline">one</li>
+        <li class="list list--inline">two</li>
+        <li class="list list--inline">three</li>
     </ul>
     <p>reverse ordered list</p>
-    <ol>
+    <ol reversed>
         <li>one</li>
         <li>two</li>
         <li>three</li>
@@ -62,20 +64,24 @@
 
     <h2>#navBar</h2>
 
-    <nav>
-        <div>NeerajVodala-Portfolio</div>
-        <ul>
-            <li>
-                <a href='/'>Home</a>
+    <nav class="navigation">
+
+        <label class="logo">
+            <a class="link" href='/'>NEERAJ VODALA</a>
+        </label>
+
+        <ul class="navigation--elements">
+            <li class="list--inline">
+                <a class="link link-active" href='/'>HOME</a>
             </li>
-            <li>
-                <a href='/'>Projects</a>
+            <li class="list--inline">
+                <a class="link" href='/'>PROJECTS</a>
             </li>
-            <li>
-                <a href='/'>Blogs</a>
+            <li class="list--inline">
+                <a class="link" href='/'>BLOGS</a>
             </li>
-            <li>
-                <a href='/'>Contact</a>
+            <li class="list--inline">
+                <a class="link" href='/'>CONTACT</a>
             </li>
         </ul>
     </nav>
