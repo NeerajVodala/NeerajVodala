@@ -25,10 +25,10 @@
     <hr>
 
     <h2>#containers</h2>
-    <h3 class="container--centre">centre containers</h3>
+    <h3 class="container container--centre">Centre containers</h3>
     <div class="container container--centre">Takes specified width. writing random stuff to increase the line size to
         see the difference.</div>
-    <h3>fluid containers</h3>
+    <h3>Fluid containers</h3>
     <div class="container ">end to end lines. writing random stuff to increase the line size to see the difference.
     </div>
 
@@ -89,41 +89,52 @@
     <hr>
 
     <h2>#header</h2>
-    <header>
-        <img src="/">
+    <header class="hero">
+        <img class="hero-img" src="images/hero.svg">
 
-        <h1>Header inside hero</h1>
+        <h1 class="hero-heading">Hey! I'm a <span class="heading-highlight">webDeveloper</span></h1>
 
     </header>
 
     <hr>
 
     <h2>#section</h2>
-    <section>
-        <h3>whiteSection</h3>
-        <p>This has white background</p>
+    <section class="container--centre">
+        <h3>Regular Section</h3>
+        <p>This has regular background.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+            industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
     </section>
-    <section>
-        <h3>Off-white section</h3>
-        <p>This has grey background</p>
+    <section class="section--non-regular">
+        <div class="container container--centre">
+            <h3>Non-regular section</h3>
+            <p>This has non regular background.
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.
+            </p>
+        </div>
+
+
     </section>
 
     <hr>
 
     <h2>#footer</h2>
-    <div>Contact</div>
-    <ul>
-        <li>
-            <a href='/'>socialOne</a>
-        </li>
-        <li>
-            <a href='/'>socialTwo</a>
-        </li>
-        <li>
-            <a href='/'>socialThree</a>
-        </li>
-    </ul>
+    <footer class="footer">
+        <div class="footer-heading">socialTwo</div>
+        <ul>
+            <li class="list--inline">
+                <a class="link" href='/'>socialOne</a>
+            </li>
+            <li class="link list--inline">
+                <a class="link" href='/'>socialTwo</a>
+            </li>
+            <li class="list--inline">
+                <a class="link" href='/'>socialThree</a>
+            </li>
+        </ul>
 
+    </footer>
 </body>
 
 </html>
