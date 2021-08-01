@@ -68,6 +68,7 @@ hr {
 
 .navigation {
     height: 4rem;
+    width: 100%;
     background-color: var(--fill-color);
 }
 
@@ -114,7 +115,6 @@ hr {
     color: var(--text-color);
     text-align: center;
     padding: 0.5rem;
-
 }
 
 .footer-heading {
