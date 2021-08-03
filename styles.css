@@ -33,6 +33,7 @@ body {
 .link {
     text-decoration: none;
     padding: 0.45rem 1rem;
+    color: var(--text-color);
 
 }
 
@@ -161,4 +162,5 @@ hr {
     color: var(--text-color);
     border: 0.1rem solid var(--text-color);
     border-radius: 20px;
+}
 }
