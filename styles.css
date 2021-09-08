@@ -118,7 +118,7 @@ hr {
     padding-top: 3rem;
     line-height: 0rem;
     font-weight: 500;
-    
+
 }
 
 .hero .hero-sub-heading {
@@ -135,7 +135,7 @@ hr {
 
 .hero .heading-highlight {
     color: var(--text-color);
-    
+
 }
 
 .section--non-regular {
@@ -170,8 +170,6 @@ footer {
     text-align: center;
 }
 
-
-
 .footer-list {
     margin: 1rem;
 }
@@ -192,6 +190,7 @@ li {
     width: 100px;
     padding: 2rem;
 }
+
 ul {
     padding-inline-start: 0px;
 }
