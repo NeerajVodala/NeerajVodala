@@ -119,6 +119,7 @@ hr {
     padding-top: 3rem;
     line-height: 0rem;
     font-weight: 500;
+    
 }
 
 .hero .hero-sub-heading {
@@ -128,13 +129,14 @@ hr {
 }
 
 .hero .hero-para {
-    padding-right: 45rem;
+    padding-right: 5rem;
     line-height: 225%;
 }
 
 
 .hero .heading-highlight {
     color: var(--text-color);
+    
 }
 
 .section--non-regular {
@@ -149,18 +151,17 @@ hr {
     padding: 1rem;
     text-align: center;
     padding: auto;
-    
+
 }
 
 .footer-heading {
     font-weight: bold;
     color: var(--text-color);
-    
+
 }
 
 .secondary-link--nav {
     color: var(--text-color);
     border: 0.1rem solid var(--text-color);
     border-radius: 30px;
-}
 }
