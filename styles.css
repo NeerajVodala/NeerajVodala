@@ -189,8 +189,8 @@ li {
 .svg--color-change {
     filter: invert(9%) sepia(66%) saturate(1349%) hue-rotate(199deg) brightness(92%) contrast(93%);
 
-    width: 50px;
-    padding: 1rem;
+    width: 100px;
+    padding: 2rem;
 }
 ul {
     padding-inline-start: 0px;
