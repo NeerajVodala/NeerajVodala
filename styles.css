@@ -55,7 +55,6 @@ body {
 
 .button {
     margin-right: 20px;
-    margin-left: -40px;
 }
 
 
@@ -164,4 +163,35 @@ hr {
     color: var(--text-color);
     border: 0.1rem solid var(--text-color);
     border-radius: 30px;
+}
+
+
+footer {
+    text-align: center;
+}
+
+
+
+.footer-list {
+    margin: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a,
+img,
+li {
+    display: inline;
+}
+
+.svg--color-change {
+    filter: invert(9%) sepia(66%) saturate(1349%) hue-rotate(199deg) brightness(92%) contrast(93%);
+
+    width: 50px;
+    padding: 1rem;
+}
+ul {
+    padding-inline-start: 0px;
 }
