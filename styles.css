@@ -108,6 +108,8 @@ hr {
 .hero .hero-img {
     float: right;
     padding-right: 7rem;
+    width: 100%;
+    height: auto;
     display: block;
     max-width: 500px;
 }
