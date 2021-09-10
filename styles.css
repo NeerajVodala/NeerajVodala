@@ -194,11 +194,10 @@ ul {
 
     .navigation--elements {
        
-        margin: 1rem;
-        margin-top: 0rem;
-        padding-right: 0px;
-        float: right;
-        line-height: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        line-height: 2rem;  
         color: var(--text-color);
     }
 
