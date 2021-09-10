@@ -83,6 +83,7 @@ body {
 
 .container {
     padding: 0.5rem 1rem;
+    
 }
 
 
@@ -113,7 +114,6 @@ body {
     border: 2px solid var(--text-color);
     border-radius: 30px;
     font-weight: bold;
-
 }
 
 .button {
@@ -146,16 +146,19 @@ footer {
 
 a {
     text-decoration: none;
+   
 }
 
 a,
 img,
 li {
     display: inline;
+    
 }
 
 .svg--color-change {
     filter: invert(9%) sepia(66%) saturate(1349%) hue-rotate(199deg) brightness(92%) contrast(93%);
+
 
     width: 100px;
     padding: 2rem;
