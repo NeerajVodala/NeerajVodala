@@ -41,7 +41,11 @@ body {
     color: var(--fill-color);
     font-weight: bold;
 }
-
+.secondary-link--nav {
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
+    border-radius: 30px;
+}
 
 .hero {
     padding: 2rem 4rem;
