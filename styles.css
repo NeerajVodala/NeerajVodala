@@ -187,18 +187,17 @@ ul {
         justify-content: center;
         align-items: center;
         font-weight: bold;
-        font-size: 1rem;
+        font-size: 1.5rem;
         padding-left: 0px
     }
 
 
     .navigation--elements {
        
-        margin: 1rem;
-        margin-top: 0rem;
-        padding-right: 0px;
-        float: right;
-        line-height: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        line-height: 2rem;  
         color: var(--text-color);
     }
 
@@ -237,7 +236,7 @@ ul {
         margin: 0rem;
     }
 
-    a,
+    li,
     div {
         font-size: 0.8rem;
     }
@@ -260,6 +259,9 @@ ul {
         display: none;
     }
     
-
+    .button {
+        margin-right: 10px;
+    }
+    
 
 }
