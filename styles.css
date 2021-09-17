@@ -45,7 +45,7 @@ body {
 .secondary-link--nav {
     color: var(--text-color);
     border: 1px solid var(--text-color);
-    border-radius: 30px;
+    border-radius: 30px;   
 }
 
 .hero {
