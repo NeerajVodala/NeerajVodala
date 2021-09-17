@@ -189,11 +189,11 @@ ul {
     }
 
 
-    .navigation--elements {
+    /* .navigation--elements {
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    } */
 
     .hero {
         padding: 1rem;
@@ -235,9 +235,9 @@ ul {
         margin-bottom: 0.2rem;
     }
 
-    .secondary-link--nav {
-        display: none;
-    }
+    /* .secondary-link--nav {
+        
+    } */
 
     .button {
         margin-right: 10px;
