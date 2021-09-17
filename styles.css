@@ -243,3 +243,23 @@ ul {
         margin-right: 10px;
     }
 }
+
+@media (max-width: 419px) {
+    .heading {
+        line-height: 0.3;
+    }
+
+    .hero-heading {
+        font-size: 1.6rem;
+        letter-spacing: 0.2rem;
+    }
+
+    .hero-sub-heading {
+        font-size: 0.7rem;
+    }
+
+    .hero-para {
+        font-size: 0.8rem;
+        margin: 0rem;
+    }
+}
