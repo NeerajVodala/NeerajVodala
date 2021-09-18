@@ -235,9 +235,10 @@ ul {
         margin-bottom: 0.2rem;
     }
 
-    /* .secondary-link--nav {
-        
-    } */
+    .secondary-link--nav {
+        display: inline-block;
+    }
+
 
     .button {
         margin-right: 10px;
@@ -245,6 +246,12 @@ ul {
 }
 
 @media (max-width: 419px) {
+
+    .secondary-link--nav {
+        display: inline-block;
+    }
+
+
     .heading {
         line-height: 0.3;
     }
