@@ -134,7 +134,9 @@ body {
     background-color: var(--no-color);
 }
 
-
+hr {
+    width: 80%;
+ }
 
 footer {
     text-align: center;
