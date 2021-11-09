@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajvodala&show_icons=true&locale=en&layout=compact" alt="neerajvodala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajvodala&show_icons=true&locale=en" alt="neerajvodala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajvodala&" alt="neerajvodala" /></p>
