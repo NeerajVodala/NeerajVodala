@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **To Do List App**
 
-- 🌱 I’m currently learning **Javascript, React, Node.js**
+- 🌱 I’m currently learning **Javascript, React, Node.js and other web development technologies**
 
 - 👨‍💻 All of my projects are available at [https://neerajvodala.netlify.app/](https://neerajvodala.netlify.app/)
 
