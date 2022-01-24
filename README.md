@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/neerajvodala21" target="blank"><img src="https://img.shields.io/twitter/follow/neerajvodala21?logo=twitter&style=for-the-badge" alt="neerajvodala21" /></a> </p>
 
-- 🔭 I’m currently working on **To Do List App**
+- 🔭 I’m currently enrolled in **NeoG Camp**
 
 - 🌱 I’m currently learning **Javascript, React, Node.js and other web development technologies**
 
