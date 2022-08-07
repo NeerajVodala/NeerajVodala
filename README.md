@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neeraj</h1>
+<!-- <h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajvodala&label=Profile%20views&color=0e75b6&style=flat" alt="neerajvodala" /> </p>
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajvodala&show_icons=true&locale=en&layout=compact" alt="neerajvodala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajvodala&show_icons=true&locale=en" alt="neerajvodala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajvodala&show_icons=true&locale=en" alt="neerajvodala" /></p> -->
