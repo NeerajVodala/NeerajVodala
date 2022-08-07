@@ -1,17 +1,17 @@
-<!-- <h1 align="center">Hi 👋, I'm Neeraj</h1>
+<h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajvodala&label=Profile%20views&color=0e75b6&style=flat" alt="neerajvodala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/neerajvodala21" target="blank"><img src="https://img.shields.io/twitter/follow/neerajvodala21?logo=twitter&style=for-the-badge" alt="neerajvodala21" /></a> </p>
 
-- 🔭 I’m currently enrolled in **NeoG Camp**
+<!-- - 🔭 I’m currently enrolled in **NeoG Camp**
 
 - 🌱 I’m currently learning **Javascript, React, Node.js and other web development technologies**
 
 - 👨‍💻 All of my projects are available at [https://neerajvodala.netlify.app/](https://neerajvodala.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@NeerajVodala](https://hashnode.com/@NeerajVodala)
+- 📝 I regularly write articles on [https://hashnode.com/@NeerajVodala](https://hashnode.com/@NeerajVodala) -->
 
 - 📫 How to reach me **vodalaneeraj@gmail.com**
 
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajvodala&show_icons=true&locale=en&layout=compact" alt="neerajvodala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajvodala&show_icons=true&locale=en" alt="neerajvodala" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajvodala&show_icons=true&locale=en" alt="neerajvodala" /></p>
